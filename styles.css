@@ -73,3 +73,9 @@ margin-top: 0;
     text-align: center;
     color: #9AABD8;
 }
+.guestIncrement:active{
+    scale: 0.9;
+}
+.homeIncrement:active{
+    scale: 0.9;
+}
